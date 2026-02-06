@@ -3,19 +3,19 @@ from typing import Dict, List, Tuple
 
 class Config:
     # Bot টোকেন
-    BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+    BOT_TOKEN = "8237536367:AAFpG6Mmu74quUukbgkhd8eqm9uWfty3504"
     
     # এডমিন আইডি (আপনার Telegram User ID)
-    ADMIN_IDS = [123456789, 987654321]  # আপনার ID দিন
+    ADMIN_IDS = 8570757300 # আপনার ID দিন
     
     # ডাটাবেস পাথ
     DB_PATH = "smm_panel.db"
     
     # পেমেন্ট সেটিংস
     PAYMENT_METHODS = {
-        "bkash": "01xxxxxxxxx",
-        "nagad": "01xxxxxxxxx",
-        "rocket": "01xxxxxxxxx"
+        "bkash": "01999999999",
+        "nagad": "01999999999",
+        "rocket": "01999999999"
     }
     
     # সার্ভিস প্রাইস (পার 1000)
